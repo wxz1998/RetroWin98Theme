@@ -1,0 +1,21 @@
+{
+    "name": "RetroWin98Theme",
+    "displayName": "RetroWin98Theme",
+    "description": "The ancient computer desktop theme lets you go back to the 90s",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RetroWin98Theme",
+                "uiTheme": "vs",
+                "path": "./themes/RetroWin98Theme-color-theme.json"
+            }
+        ]
+    }
+}
